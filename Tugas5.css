@@ -1,0 +1,25 @@
+.box1, .box2, .box3, .box4 {
+    float: left;
+    width: 150px;
+    height: 400px;
+    margin: 2em;
+    padding: 2em;
+    border: 3px solid black;
+    
+}
+
+.box1 {
+    background-color: yellow;
+}
+
+.box2 {
+    background-color: orangered;
+}
+
+.box3 {
+    background-color: green;
+}
+
+.box4 {
+    background-color: blue;
+}
